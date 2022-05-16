@@ -7,7 +7,6 @@ path.join(__dirname)
 const host = 'localhost';
 
 let server=http.createServer(function (request, response) {
-    console.log(path)
     let filePath = '.' + request.url;
     if (filePath == './')
         filePath = './index.html';
@@ -35,13 +34,11 @@ let server=http.createServer(function (request, response) {
         if (error) {
             if(response.writeHead(404)){
                 response.writeHead(404);
-                response.end('err 404');
-                console.log("error 404 not found")
+                response.end('error 404 page not found!');
             }
             else {
                 response.writeHead(500);
-                response.end('err 500');
-                console.log("error 500")
+                response.end('error 500');
                
             }
         }

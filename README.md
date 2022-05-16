@@ -26,7 +26,7 @@ Start the webserver by running:
 ```bash
   npm run start
 ```
-\
+
 
 \
 And finally, put the address of your file after

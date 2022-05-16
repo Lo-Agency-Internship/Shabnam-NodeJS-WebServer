@@ -1,7 +1,7 @@
 # **server.js** for Node.js
 
 Powerful server for Node.js that just works so **you can focus on your awesome project**:
-
+Server requires **Node.js 10.19.0** or newer. **Node.js 10.x.y** LTS is recommended.
 
 ## Getting started
 
@@ -16,7 +16,7 @@ Go to the project directory
 ```bash
   cd Shabnam-NodeJS-WebServer
 ```
-\
+
 
 
 \

@@ -1,0 +1,19 @@
+{
+  "name": "webserver_package",
+  "version": "1.0.0",
+  "description": "webserver with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lo-Agency-Internship/Shabnam-NodeJS-WebServer.git"
+  },
+  "author": "shabnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lo-Agency-Internship/Shabnam-NodeJS-WebServer/issues"
+  },
+  "homepage": "https://github.com/Lo-Agency-Internship/Shabnam-NodeJS-WebServer#readme"
+}

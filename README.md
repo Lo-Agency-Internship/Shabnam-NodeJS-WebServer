@@ -8,7 +8,7 @@ Server requires **Node.js 10.19.0** or newer. **Node.js 10.x.y** LTS is recommen
 Clone the project
 
 ```bash
-  git clone git@github.com:Lo-Agency-Internship/Shabnam-NodeJS-WebServer.git
+  git clone https://github.com/Lo-Agency-Internship/Shabnam-NodeJS-WebServer.git
 ```
 
 Go to the project directory

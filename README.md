@@ -16,6 +16,7 @@ Go to the project directory
 ```bash
   cd Shabnam-NodeJS-WebServer
 ```
+You should put the contents of the cloned folder next to the files you are going to run.You can also move executable files to a cloned folder to run.
 
 
 
@@ -26,7 +27,7 @@ Start the webserver by running:
   npm run start
 ```
 \
-You should put the contents of the cloned folder next to the files you are going to run.
+
 \
 And finally, put the address of your file after
 http://localhost:8000/
